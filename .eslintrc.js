@@ -34,6 +34,6 @@ module.exports = {
       },
     ],
     'import/prefer-default-export': 'off',
-    'no-console': ["erro", { allow: ["tron"] }]
+    'no-console': ["error", { allow: ["tron"] }],
   },
 };
